@@ -10,7 +10,7 @@ I built this repository to document my hands-on exploration of two fundamental a
 **🚀 Project Overview:**
 While prompt engineering focuses on crafting detailed instructions for AI models, context engineering incorporates additional layers of user intent, prior interactions, metadata, and situational context. This deeper approach yields more accurate, meaningful, and creative outputs—moving beyond just “better prompts” to true intelligent generation.
 
-_**🛠️ What’s in This Repo?**_
+_**What’s in This Repo?**_
 
 **🛠️Side-by-Side Comparisons:**
 Real-world examples and visuals highlighting how prompt-only and context-rich approaches differ in outcome.
