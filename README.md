@@ -30,6 +30,9 @@ Practical applications and business implications of adopting context engineering
 **🧠 Why I Built This**
 Prompt engineering has been the first step for most people exploring generative AI. But as I dug deeper, I found that real breakthroughs in quality, consistency, and relevance come from a thoughtful, context-driven approach. This project is my attempt to share that journey—and help other AI practitioners, marketers, designers, and product builders take their creative output to the next level.
 
+
+🚀🚀🚀
+
 _Take a look first at the prompts below, and then the images uploaded above to see the difference context engineering makes!_
 
 _**PROMPTS**_
