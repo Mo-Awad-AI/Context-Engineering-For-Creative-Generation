@@ -1,7 +1,7 @@
 # context-engineering-for-creative-generation
 I created this project to explore the tangible differences between prompt engineering and context engineering in generating AI-driven image and video assets. Through hands-on experimentation, I demonstrate how context-aware approaches consistently produce more relevant, creative, and high-quality outputs compared to traditional prompt engineering.
 
-**Context Engineering vs. Prompt Engineering for Image & Video Asset Creation**
+_**Context Engineering vs. Prompt Engineering for Image & Video Asset Creation**_
 
 **Welcome! 👋**
 
@@ -10,8 +10,9 @@ I built this repository to document my hands-on exploration of two fundamental a
 **🚀 Project Overview:**
 While prompt engineering focuses on crafting detailed instructions for AI models, context engineering incorporates additional layers of user intent, prior interactions, metadata, and situational context. This deeper approach yields more accurate, meaningful, and creative outputs—moving beyond just “better prompts” to true intelligent generation.
 
-**🛠️ What’s in This Repo?**
-Side-by-Side Comparisons:
+_**🛠️ What’s in This Repo?**_
+
+**🛠️Side-by-Side Comparisons:**
 Real-world examples and visuals highlighting how prompt-only and context-rich approaches differ in outcome.
 
 **🛠️Best Practices & Insights:**
